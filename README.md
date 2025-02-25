@@ -1,4 +1,4 @@
-We have developed an Advanced Banking & Investment System that runs in a Colab environment, showcasing a wide array of financial operations and interactive features. 
+I have developed an Advanced Banking & Investment System that runs in a Colab environment, showcasing a wide array of financial operations and interactive features. 
 The system supports creating and managing user accounts, tracking deposits, withdrawals, and transfers, and includes secure password hashing and basic login failure tracking. 
 We integrated loan application and repayment workflows (with EMI calculations), KYC approvals for identity verification, and a modular design that uses data persistence via a pickle file. 
 Additionally, we introduced advanced investment and analysis tools, such as mutual funds calculators (SIP, lump sum, and CAGR), portfolio-building and risk-profiling questionnaires, and personal financial management insights (estimating monthly expenses and savings). 
